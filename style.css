@@ -2,10 +2,22 @@ body {
     text-align: center;
     font-family: 'Arial';
     background: rgb(247, 226, 255);
-    color: purple;
+    color: black;
 }
 
 h1 {
     margin: 20px 0 10px;
     font-weight: bold;
+    color: purple;
 }
+
+h2 {
+    margin: 20px 0 10px;
+    font-weight: bold;
+    color: purple;
+
+h3 {
+    margin: 20px 0 10px;
+    color: purple;
+}
+
