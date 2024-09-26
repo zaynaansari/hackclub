@@ -8,16 +8,19 @@ body {
 h1 {
     margin: 20px 0 10px;
     font-weight: bold;
+    background: rgb(247, 226, 255);
     color: purple;
 }
 
 h2 {
     margin: 20px 0 10px;
     font-weight: bold;
+    background: rgb(247, 226, 255);
     color: purple;
 
 h3 {
     margin: 20px 0 10px;
     color: purple;
+    background: rgb(247, 226, 255);
 }
 
